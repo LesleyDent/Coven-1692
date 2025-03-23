@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <h1 class="">Coven 1692</h1>
+    <h1 class="">Spellcraft Hollow</h1>
   </div>
   <p>Coming soon</p>
 </template>
@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   font-family: "Amarante", serif;
   color: #f1e28f;
 }
+
 body {
   background-color: #120422;
 }
